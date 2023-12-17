@@ -1,5 +1,5 @@
 public class Budget {
-    int budget = 10000;
+    int budget = 20000;
 
     public int getBudget() {
         return budget;

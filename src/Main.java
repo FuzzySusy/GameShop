@@ -17,7 +17,7 @@ public class Main {
         Game game2 = new Game();
         game2.setAvailability(true);
         game2.setName("AoE 4");
-        game2.setPrice(30);
+        game2.setPrice(40);
         game2.setSupply(100);
 
         Game game3 = new Game();
