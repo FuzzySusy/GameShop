@@ -17,7 +17,7 @@ public class Main {
         Game game2 = new Game();
         game2.setAvailability(true);
         game2.setName("AoE 4");
-        game2.setPrice(30);
+        game2.setPrice(40);
         game2.setSupply(100);
 
         Game game3 = new Game();
@@ -30,7 +30,7 @@ public class Main {
         game4.setAvailability(true);
         game4.setName("CS:Go");
         game4.setPrice(10);
-        game4.setSupply(150);
+        game4.setSupply(100);
 
         ArrayList<Game> games = new ArrayList<>();
         games.add(game1);
